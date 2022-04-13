@@ -303,7 +303,7 @@ var styleJSON = {
             "type": "fill",
             "source": "CD8_20",
             "layout": {},
-            "paint": {'fill-opacity': 1.0, 'fill-color': '#b7484b'}
+            "paint": {line-width': 3.4285714285714284, 'line-opacity': 1.0, 'line-color': '#b7484b'}
         }
 ,
         {
@@ -327,7 +327,7 @@ var styleJSON = {
             "type": "fill",
             "source": "CD82022boundaries_23",
             "layout": {},
-            "paint": {'fill-opacity': 1.0, 'fill-color': '#0000ff'}
+            "paint": {line-width': 3.4285714285714284, 'line-opacity': 1.0, 'line-color': '#0000ff'}
         }
 ],
 }
